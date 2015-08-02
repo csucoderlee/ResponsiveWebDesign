@@ -1,0 +1,14 @@
+
+创意收集网站：http：//mediaqueri.es
+
+W3C验证工具网址：http://validator.w3.org
+
+css禅意花园：http://www.csszengarden.com
+
+基于css2.1的技术博客：http://alistapart.com/article/slidingdoors
+
+微软的web开发平台：http://dev.modern.ie/
+
+一些css3，jquery特效网站：http://www.panic.com/ http://demo.marcofolio.net/
+
+ps：css3除了用来做动画，还能干点别的么，分享的内容多半都是与动画效果有关
